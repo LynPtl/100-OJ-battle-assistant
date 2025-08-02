@@ -1,4 +1,11 @@
-# 100% OJ Battle Assistant - Changelog
+# 100% OJ Battle Assistant Changelog
+
+## New Platform: Native Android Version Release
+
+* **This version was completed and merged by community contributor [TimeZ250](https://github.com/TimeZ250).**
+* **New:** The project adds a native Android version developed using Kotlin and XML.
+* **Platform Expansion:** The project now officially supports both Desktop (Python/Tkinter) and Mobile (Android) platforms.
+* **Feature Alignment:** The Android version aims to implement the same core decision-making algorithms and strategies as the desktop version, providing a native application experience for mobile users.
 
 ## V1.x: Core Functionality & Basic Strategy
 
