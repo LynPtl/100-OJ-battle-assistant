@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- Background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#f0f0f8" />
+            <stroke
+                android:width="1dp"
+                android:color="#cccccc" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+    
+    <!-- Dropdown arrow -->
+    <item
+        android:width="24dp"
+        android:height="24dp"
+        android:gravity="center_vertical|end"
+        android:end="12dp">
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="0"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape android:shape="rectangle">
+                <size android:width="0dp" android:height="0dp" />
+            </shape>
+        </rotate>
+        <vector
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="24"
+            android:viewportHeight="24">
+            <path
+                android:fillColor="#666666"
+                android:pathData="M7,10l5,5 5,-5z" />
+        </vector>
+    </item>
+    
+</layer-list>
