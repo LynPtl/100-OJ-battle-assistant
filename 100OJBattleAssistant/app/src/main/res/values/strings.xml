@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">百橙战斗助手</string>
+    <string name="app_name_en">100%OJ! Battle Helper</string>
+    
+    <!-- Common UI strings -->
+    <string name="character_hint">你的角色</string>
+    <string name="character_hint_en">Your Character</string>
+    <string name="hp_label">自己当前HP:</string>
+    <string name="hp_label_en">Your Current HP:</string>
+    <string name="attack_label">对手最终攻击力:</string>
+    <string name="attack_label_en">Opponent\'s Final Attack:</string>
+    
+    <!-- Strategy strings -->
+    <string name="strategy_survival">生存优先</string>
+    <string name="strategy_survival_en">Survival Priority</string>
+    <string name="strategy_damage">期望伤害优先</string>
+    <string name="strategy_damage_en">Expected Damage Priority</string>
+    <string name="strategy_resistance">抗性保留优先</string>
+    <string name="strategy_resistance_en">Resistance Priority</string>
+    
+    <!-- Actions -->
+    <string name="show_details">显示详情 ▼</string>
+    <string name="show_details_en">Show Details ▼</string>
+    <string name="hide_details">隐藏详情 ▲</string>
+    <string name="hide_details_en">Hide Details ▲</string>
+    
+    <!-- Recommendation actions -->
+    <string name="defend">防御</string>
+    <string name="defend_en">Defend</string>
+    <string name="evade">闪避</string>
+    <string name="evade_en">Evade</string>
+    <string name="doomed">必死</string>
+    <string name="doomed_en">Doomed</string>
+    
+    <!-- Initial state -->
+    <string name="initial_explanation">请填入数据</string>
+    <string name="initial_explanation_en">Please input data</string>
+</resources>
